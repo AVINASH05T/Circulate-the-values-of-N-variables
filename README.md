@@ -1,8 +1,8 @@
 # EXPERIMENT:2
 # Circulate the values of N variables
-### NAME: AVINASH T
-### ROLL NO: 212223230026
-### DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+## NAME: AVINASH T
+## ROLL NO: 212223230026
+## DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
