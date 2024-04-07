@@ -27,6 +27,10 @@ End the program
 #Program to circulate N values.
 #Developed by: AVINASH T
 #RegisterNumber: 212223230026
+def circulate():
+    lis=eval(input())
+    n=int(input())
+    print("After circulating the values are:",lis[n:]+lis[:n])
 ```
 ![image](https://github.com/AVINASH05T/Circulate-the-values-of-N-variables/assets/151514286/da5b3b03-7fd5-46f3-b1fd-206ecf02d1c7)
 
